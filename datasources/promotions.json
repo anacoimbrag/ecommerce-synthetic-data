@@ -1,0 +1,377 @@
+[
+  {
+    "lastModifiedUtc": "2026-04-14T09:08:56.924046Z",
+    "name": "Black Friday - 30% OFF em Toda Loja",
+    "description": "Desconto de 30% em todos os departamentos durante a Black Friday.",
+    "type": "regular",
+    "utmSource": "blackfriday",
+    "utmiCampaign": "black-friday-30-off",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "0113445e-4624-4d56-8f41-be5a58762f95",
+      "ff7d06a7-b249-4dce-bd8e-3152cf9beec5"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-05-13T10:12:56.046107Z",
+    "name": "Cyber Monday - Calcados com Desconto",
+    "description": "20% OFF em toda a categoria de calcados na Cyber Monday.",
+    "type": "regular",
+    "utmSource": "cybermonday",
+    "utmiCampaign": "cyber-monday-calcados",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "1be615a7-e1b1-4f44-81fb-fe13559b9072",
+      "caf332c8-7386-47a6-8f79-13f01b96112c",
+      "3aa8f4e1-a3b3-409c-9904-d2275dd1cf28"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-17T20:44:32.561515Z",
+    "name": "Verao Kids - Ate 25% OFF",
+    "description": "Ate 25% de desconto em roupas infantis para a colecao de verao.",
+    "type": "regular",
+    "utmSource": "verao-kids",
+    "utmiCampaign": "verao-infantil-25off",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "209c1e20-63bb-4a2e-8665-e4a60cb704e8",
+      "c00ed9c7-0b78-4a8d-9d74-196bcb3a847c",
+      "9e5d0ebd-1784-476e-bcca-1b852bc69315"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-15T19:14:32.938019Z",
+    "name": "Compre 2 Leve 3 - Camisetas Masculinas",
+    "description": "Na compra de 2 camisetas masculinas, a terceira sai por conta da loja.",
+    "type": "progressive",
+    "utmSource": "combo-camisetas",
+    "utmiCampaign": "compre2leve3-camisetas",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "b272d5de-c065-4595-86ea-1021b10adc4b"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-23T14:09:19.388684Z",
+    "name": "Frete Gratis Acima de R$199",
+    "description": "Frete gratis para todo o Brasil em compras acima de R$199,00.",
+    "type": "regular",
+    "utmSource": "frete-gratis",
+    "utmiCampaign": "frete-gratis-199",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "5da72c7d-0cc7-4c65-8d2b-c43fe8b14dc2",
+      "68a257dd-d015-4aa8-b8a9-22b49cde9e93",
+      "30417516-f0c0-4a8c-b90e-ea754a0ae796"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2025-09-08T03:24:56.768179Z",
+    "name": "Dia das Maes - 20% OFF Linha Feminina",
+    "description": "20% de desconto em vestidos, blusas e calcados femininos para o Dia das Maes.",
+    "type": "regular",
+    "utmSource": "dia-das-maes",
+    "utmiCampaign": "dia-maes-feminino-20off",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "aafc48c0-7d7a-4544-a363-431fa4af5a05"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2025-09-18T17:31:33.848738Z",
+    "name": "Dia dos Namorados - Presentes em Dobro",
+    "description": "Desconto progressivo na compra de looks para o casal.",
+    "type": "progressive",
+    "utmSource": "dia-dos-namorados",
+    "utmiCampaign": "namorados-presente-duplo",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "4f4f63cc-689b-4cc9-b1fa-76adcf21b9d0"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-23T03:30:24.144230Z",
+    "name": "Volta as Aulas - Kit Infantil",
+    "description": "Descontos progressivos na compra de camisetas, bermudas e tenis infantis.",
+    "type": "progressive",
+    "utmSource": "volta-as-aulas",
+    "utmiCampaign": "volta-aulas-kit-infantil",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "246b6bbf-0ee9-470d-80b4-fc2c9dbdc5c0",
+      "f049b0c4-d846-4233-95f4-458ae923c580",
+      "72054b8c-26e3-4f56-b5cc-aabda6f21da4"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-19T18:12:23.330051Z",
+    "name": "Compre 3 Pecas e Ganhe 15% OFF",
+    "description": "A partir de 3 pecas no carrinho, o cliente ganha 15% de desconto no total.",
+    "type": "progressive",
+    "utmSource": "combo-3-pecas",
+    "utmiCampaign": "progressivo-3pecas-15off",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "efce3885-f4b6-44bf-883e-2d38dffe0a6d",
+      "01ca50e6-014f-46d5-9ffe-14bf24afba43",
+      "10382f4c-6879-4f97-a61c-7b762e574a8e"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-07T18:14:14.934161Z",
+    "name": "Compre 5 Pecas e Ganhe 25% OFF",
+    "description": "A partir de 5 pecas no carrinho, o cliente ganha 25% de desconto no total.",
+    "type": "progressive",
+    "utmSource": "combo-5-pecas",
+    "utmiCampaign": "progressivo-5pecas-25off",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "52531127-bad0-405e-901e-067a361adc51"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-27T02:36:28.286549Z",
+    "name": "Colecao Inverno - Ate 40% OFF Calcados",
+    "description": "Descontos de ate 40% em botas, tenis e sapatos da colecao de inverno.",
+    "type": "regular",
+    "utmSource": "colecao-inverno",
+    "utmiCampaign": "inverno-calcados-40off",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": true,
+    "conditionsIds": [
+      "58499d99-872c-4023-940c-65167565b694",
+      "27c138b9-8bb2-4922-8b98-1d1995a63c5a",
+      "7169adf8-fd78-49bd-977a-12e5d0fbd91b"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2025-11-24T11:20:22.031702Z",
+    "name": "Aniversario da Loja - Cupom Especial",
+    "description": "Cupom de 15% OFF para celebrar o aniversario da marca, valido por tempo limitado.",
+    "type": "regular",
+    "utmSource": "aniversario-loja",
+    "utmiCampaign": "aniversario-cupom-15off",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "c52564f5-e923-41f6-88b2-c1c90b88dc07",
+      "2de68cda-5adf-4002-9a73-d8fc8151b938",
+      "90d62e6e-70b6-4f73-a48c-a8915591e6ae"
+    ],
+    "maxUsage": 5000
+  },
+  {
+    "lastModifiedUtc": "2025-12-27T12:34:09.811501Z",
+    "name": "Semana do Consumidor - Descontos Especiais",
+    "description": "Semana inteira com descontos de ate 30% em pecas selecionadas.",
+    "type": "regular",
+    "utmSource": "semana-consumidor",
+    "utmiCampaign": "semana-consumidor-30off",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "e1ba228d-cb91-4d0b-8754-41f85cfaaecd",
+      "59681da7-0052-4d0c-93f2-c218180d8b2d"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-05-12T14:44:23.685166Z",
+    "name": "Liquidacao de Estacao - Ultimas Pecas",
+    "description": "Liquidacao com descontos progressivos para renovar a colecao.",
+    "type": "progressive",
+    "utmSource": "liquidacao-estacao",
+    "utmiCampaign": "liquidacao-ultimas-pecas",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "f72ef8f4-8fed-4244-8493-539d7d200866",
+      "7abe5271-2c11-4dda-9614-9a8b343f8fd6",
+      "555b1ba0-fbff-472d-9b6b-7a0027b73fa0"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-05-30T11:03:31.698076Z",
+    "name": "Combo Jeans - Calca + Camisa com Desconto",
+    "description": "Desconto especial na compra combinada de calca jeans e camisa.",
+    "type": "progressive",
+    "utmSource": "combo-jeans",
+    "utmiCampaign": "combo-calca-camisa",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "9d72de01-c1aa-48b7-8ab8-4d2a8ec69da1",
+      "088facc4-6369-4d9e-b115-7e01e96f3860",
+      "a6a34998-9b72-4b83-b433-ae3397bb3853"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-05-24T18:17:33.827025Z",
+    "name": "Dia dos Pais - 20% OFF Linha Masculina",
+    "description": "20% de desconto em camisas, calcas e calcados masculinos para o Dia dos Pais.",
+    "type": "regular",
+    "utmSource": "dia-dos-pais",
+    "utmiCampaign": "dia-pais-masculino-20off",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "d9f32a0a-2d68-4e18-85de-afc3886ba07d",
+      "8a151a3b-1da4-4c20-a676-d6cb523e7a9f",
+      "49e3db67-a8cf-4e7c-a1ff-cdd40c596094"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-04-14T06:23:57.299325Z",
+    "name": "Natal - Presentes para Toda Familia",
+    "description": "Descontos em pecas masculinas, femininas e infantis para as compras de Natal.",
+    "type": "regular",
+    "utmSource": "natal",
+    "utmiCampaign": "natal-presentes-familia",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "7b1dc8c4-c862-4adb-b3f2-2b0000355961",
+      "12995316-48b5-474d-b1ca-8292b641e571"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2025-06-04T04:13:09.081995Z",
+    "name": "Saldao de Janeiro",
+    "description": "Saldao de inicio de ano com descontos de ate 50% em pecas de estacao anterior.",
+    "type": "regular",
+    "utmSource": "saldao-janeiro",
+    "utmiCampaign": "saldao-janeiro-50off",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": true,
+    "conditionsIds": [
+      "222b90a7-02e0-40a4-89e3-e7c474f7d399"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-08T23:27:21.479199Z",
+    "name": "Primeira Compra - 10% OFF",
+    "description": "Cupom de 10% de desconto valido para a primeira compra de novos clientes.",
+    "type": "regular",
+    "utmSource": "primeira-compra",
+    "utmiCampaign": "boasvindas-10off",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "b0de6488-cfca-4bf1-b75b-c1b69949725c",
+      "a927bde5-c00d-4f28-ac1f-08f144cfe11e"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-05-10T07:45:06.901858Z",
+    "name": "Assinantes da Newsletter - 10% OFF",
+    "description": "Cupom exclusivo de 10% de desconto para assinantes da newsletter.",
+    "type": "regular",
+    "utmSource": "newsletter",
+    "utmiCampaign": "newsletter-10off",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "fa3cd7a2-b974-4adc-8b19-a5a466b84f8d",
+      "939830a0-bf97-4714-8838-5d33884e353a",
+      "f4d68810-ef38-4c9c-bd8f-58ac25cfd902"
+    ],
+    "maxUsage": 20000
+  },
+  {
+    "lastModifiedUtc": "2026-05-30T23:07:55.936384Z",
+    "name": "Compre e Ganhe - Acessorio Infantil",
+    "description": "Na compra de duas pecas infantis, o cliente ganha um acessorio infantil.",
+    "type": "progressive",
+    "utmSource": "compre-e-ganhe",
+    "utmiCampaign": "ganhe-acessorio-infantil",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "3f81e47d-2117-4a1d-b24f-fb2e1017222b",
+      "90491341-b85f-4676-ac16-13ef36080e0d"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2025-07-06T12:08:23.285672Z",
+    "name": "Black Week Calcados - Descontos Diarios",
+    "description": "Uma semana de ofertas diarias em tenis, sapatos, sandalias e botas.",
+    "type": "regular",
+    "utmSource": "black-week",
+    "utmiCampaign": "black-week-calcados",
+    "isActive": false,
+    "isArchived": true,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "546db0f0-7ecc-411a-9a8b-56a3584fb581",
+      "a90cd116-c5e1-4221-84c7-e22d914c4d76",
+      "fea30e3e-3fa6-4b69-9dc0-890e24097c61"
+    ],
+    "maxUsage": 0
+  },
+  {
+    "lastModifiedUtc": "2026-06-11T23:25:03.298867Z",
+    "name": "Flash Sale de Fim de Semana",
+    "description": "Descontos relampago validos apenas no sabado e domingo.",
+    "type": "regular",
+    "utmSource": "flash-sale",
+    "utmiCampaign": "flash-sale-fim-de-semana",
+    "isActive": true,
+    "isArchived": false,
+    "hasMaxPricePerItem": false,
+    "conditionsIds": [
+      "253c23c8-8f0c-4170-b535-11f5978606d0",
+      "461addd4-b500-4c4b-812e-b9f518de7035"
+    ],
+    "maxUsage": 1000
+  }
+]

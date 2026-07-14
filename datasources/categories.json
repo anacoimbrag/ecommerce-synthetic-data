@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "name": "Masculino",
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 2,
+        "name": "Camisetas",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 3,
+            "name": "Camiseta Basica",
+            "hasChildren": false
+          },
+          {
+            "id": 4,
+            "name": "Camiseta Estampada",
+            "hasChildren": false
+          },
+          {
+            "id": 5,
+            "name": "Camiseta Polo",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Camisas",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 7,
+            "name": "Camisa Social",
+            "hasChildren": false
+          },
+          {
+            "id": 8,
+            "name": "Camisa Casual",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Calcas",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 10,
+            "name": "Calca Jeans",
+            "hasChildren": false
+          },
+          {
+            "id": 11,
+            "name": "Calca Sarja",
+            "hasChildren": false
+          },
+          {
+            "id": 12,
+            "name": "Calca Moletom",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Calcados",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 14,
+            "name": "Tenis Casual",
+            "hasChildren": false
+          },
+          {
+            "id": 15,
+            "name": "Sapato Social",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Acessorios",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 17,
+            "name": "Bone",
+            "hasChildren": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Feminino",
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 19,
+        "name": "Vestidos",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 20,
+            "name": "Vestido Curto",
+            "hasChildren": false
+          },
+          {
+            "id": 21,
+            "name": "Vestido Longo",
+            "hasChildren": false
+          },
+          {
+            "id": 22,
+            "name": "Vestido Festa",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Blusas",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 24,
+            "name": "Blusa Social",
+            "hasChildren": false
+          },
+          {
+            "id": 25,
+            "name": "Blusa Casual",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Calcas",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 27,
+            "name": "Calca Jeans",
+            "hasChildren": false
+          },
+          {
+            "id": 28,
+            "name": "Calca Legging",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Calcados",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 30,
+            "name": "Sandalia",
+            "hasChildren": false
+          },
+          {
+            "id": 31,
+            "name": "Sapatilha",
+            "hasChildren": false
+          },
+          {
+            "id": 32,
+            "name": "Bota",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Acessorios",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 34,
+            "name": "Bolsa",
+            "hasChildren": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Infantil",
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 36,
+        "name": "Roupas Bebe",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 37,
+            "name": "Body",
+            "hasChildren": false
+          },
+          {
+            "id": 38,
+            "name": "Macacao",
+            "hasChildren": false
+          },
+          {
+            "id": 39,
+            "name": "Conjunto Bebe",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Roupas Infantil",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 41,
+            "name": "Camiseta Infantil",
+            "hasChildren": false
+          },
+          {
+            "id": 42,
+            "name": "Vestido Infantil",
+            "hasChildren": false
+          },
+          {
+            "id": 43,
+            "name": "Bermuda Infantil",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Calcados Infantil",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 45,
+            "name": "Tenis Infantil",
+            "hasChildren": false
+          },
+          {
+            "id": 46,
+            "name": "Sandalia Infantil",
+            "hasChildren": false
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Acessorios Infantil",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 48,
+            "name": "Bone Infantil",
+            "hasChildren": false
+          },
+          {
+            "id": 49,
+            "name": "Meia Infantil",
+            "hasChildren": false
+          },
+          {
+            "id": 50,
+            "name": "Mochila Infantil",
+            "hasChildren": false
+          }
+        ]
+      }
+    ]
+  }
+]

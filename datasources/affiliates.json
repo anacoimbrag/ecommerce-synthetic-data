@@ -1,0 +1,44 @@
+[
+  {
+    "id": "LNG",
+    "followUpEmail": "parceiros@lengow.com",
+    "name": "Lengow",
+    "storeHandle": "lojadolengow",
+    "comission": 0.05
+  },
+  {
+    "id": "ZOM",
+    "followUpEmail": "parceiros@zoom.com.br",
+    "name": "Zoom",
+    "storeHandle": "lojanozoom",
+    "comission": 0.03
+  },
+  {
+    "id": "BSP",
+    "followUpEmail": "afiliados@buscape.com.br",
+    "name": "BuscaPe",
+    "storeHandle": "lojabuscape",
+    "comission": 0.04
+  },
+  {
+    "id": "AWN",
+    "followUpEmail": "suporte@awin.com",
+    "name": "Awin",
+    "storeHandle": "lojaawin",
+    "comission": 0.06
+  },
+  {
+    "id": "RKT",
+    "followUpEmail": "partners@rakutenadvertising.com",
+    "name": "Rakuten Advertising",
+    "storeHandle": "lojarakuten",
+    "comission": 0.045
+  },
+  {
+    "id": "CJA",
+    "followUpEmail": "support@cj.com",
+    "name": "CJ Affiliate",
+    "storeHandle": "lojacj",
+    "comission": 0.055
+  }
+]

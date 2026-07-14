@@ -1,0 +1,14 @@
+services:
+  ecomm-data:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+    networks:
+      - cdp-shared-net
+    restart: unless-stopped
+
+networks:
+  cdp-shared-net:
+    external: true

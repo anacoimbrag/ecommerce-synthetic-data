@@ -1,0 +1,7017 @@
+{
+  "apiVersion": "v1",
+  "resource": "customer_profiles",
+  "generatedAt": "2026-06-30T23:59:59Z",
+  "page": {
+    "number": 3,
+    "size": 200,
+    "totalPages": 11,
+    "totalRecords": 2200
+  },
+  "pagination": {
+    "hasNextPage": true,
+    "nextPageToken": "page_4"
+  },
+  "profiles": [
+    {
+      "identity": {
+        "userPseudoId": "e68c99eb357289fd",
+        "cdpId": "fa874661-c930-5651-b214-355b62fbbb7e",
+        "firstName": "Bruno",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "bruno.gomes166@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511919926861",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.730.419-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2005-06-24",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "80a86f73603a13cd",
+        "cdpId": "99115c3e-e785-537f-b428-8c523e4a38b2",
+        "firstName": "Andre",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "andre.araujo466@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511913913140",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.945.345-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1996-09-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "960ee93ebe801a70",
+        "cdpId": "76b5b1c4-3cd2-536c-a571-72cfb84274d8",
+        "firstName": "Marcelo",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "marcelo.almeida447@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511958843272",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.404.872-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2005-12-25",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "22c1836faedbcdd0",
+        "cdpId": "96b72b88-03f4-5b27-8cff-92f944bbab7f",
+        "firstName": "Gustavo",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "gustavo.almeida399@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511994448669",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.666.168-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1991-05-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "63f5c651c600a0a4",
+        "cdpId": "1f8462da-4b5f-5773-b409-e7ce45e55a7d",
+        "firstName": "Larissa",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "larissa.dias506@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929048202",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.916.534-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1968-06-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4cadf670933428d0",
+        "cdpId": "303cc2a4-e972-5481-911c-38c12607e12a",
+        "firstName": "Patricia",
+        "lastName": "Moreira",
+        "emails": [
+          {
+            "address": "patricia.moreira852@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511937121658",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.304.959-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1983-06-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4a1b74a2fda86107",
+        "cdpId": "d81c0198-136b-5191-ac2c-b4efa5282321",
+        "firstName": "Eduardo",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "eduardo.rocha437@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511921234428",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.249.264-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1979-05-05",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d22c2bbbcd136d23",
+        "cdpId": "08bd3172-fe58-57d7-94af-83c01b4717b4",
+        "firstName": "Leonardo",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "leonardo.pereira265@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511941752302",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.167.518-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1962-10-12",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "74ce962b4eeabddb",
+        "cdpId": "a9ac7294-8999-5869-a761-5e45b74db500",
+        "firstName": "Rodrigo",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "rodrigo.fernandes627@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511977568116",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.163.481-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1988-05-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "688472dec94b748a",
+        "cdpId": "8e5328b0-0e72-5608-92cd-da01ddc028b7",
+        "firstName": "Sabrina",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "sabrina.ribeiro235@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511930296754",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.842.880-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1962-03-06",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ffd83340a6cc30b0",
+        "cdpId": "6abdbbbe-0cf7-5dbb-8d16-9ab8f54d8abe",
+        "firstName": "Alexandre",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "alexandre.martins308@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511911369659",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.168.403-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1985-10-23",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0123fe8f09741e78",
+        "cdpId": "4224fdda-7512-506b-b7de-c4004de73d48",
+        "firstName": "Leonardo",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "leonardo.almeida209@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5521980025614",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.896.877-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2008-03-10",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "3a3d68bfb215c9a7",
+        "cdpId": "c5aeebcf-1ffa-5868-8950-8c320d7d3933",
+        "firstName": "Carla",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "carla.ferreira458@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511954406052",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.507.728-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1961-04-20",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "423d7967ec9ab6c5",
+        "cdpId": "17458b93-0592-5ea8-b2cf-d0746c7f512b",
+        "firstName": "Bruno",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "bruno.pereira293@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511981583655",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.389.158-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Nao informado",
+        "birthDate": "1998-10-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ac74d71ce011542f",
+        "cdpId": "65458361-e58a-553e-8e89-8cf10259f52e",
+        "firstName": "Leticia",
+        "lastName": "Oliveira",
+        "emails": [
+          {
+            "address": "leticia.oliveira958@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511945331406",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.757.434-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2007-08-24",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "c93231d86e2554cd",
+        "cdpId": "5537e79a-e762-517b-b166-7a0c78093c9d",
+        "firstName": "Joao",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "joao.nascimento848@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511941691185",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.762.580-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1967-10-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b523f5211a322aba",
+        "cdpId": "1ad0495d-9905-54c5-8771-3df949ba7664",
+        "firstName": "Marcelo",
+        "lastName": "Alves",
+        "emails": [
+          {
+            "address": "marcelo.alves245@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511990239554",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.387.603-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1972-11-27",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "8a1249e79488a974",
+        "cdpId": "21c7e4e5-4eb1-5fa9-b252-89c008e55e9c",
+        "firstName": "Juliana",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "juliana.martins754@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511987788123",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.925.758-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1991-05-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9be92ba5964f2aa5",
+        "cdpId": "dfc2eead-5850-537b-b530-5d8b069c6a14",
+        "firstName": "Felipe",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "felipe.lima970@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511972704609",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.706.180-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1999-10-19",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6fe2d771450c8ef8",
+        "cdpId": "3ae48074-fbbf-5831-a44e-cf05991ab1ef",
+        "firstName": "Aline",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "aline.nascimento554@gmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511992128233",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.360.943-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1965-04-23",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9c68bfdcbd6b0fe9",
+        "cdpId": "afe0d85c-18c6-551f-bfae-d0a4f961a36e",
+        "firstName": "Lucas",
+        "lastName": "Santos",
+        "emails": [
+          {
+            "address": "lucas.santos679@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5531983218887",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.742.395-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1995-11-24",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "fd9157dc0361db83",
+        "cdpId": "16f4c74f-eb15-5948-a13b-a68cd4bafbf0",
+        "firstName": "Thiago",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "thiago.nascimento96@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511986383600",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.231.903-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1969-07-28",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "227a3b8257cbf772",
+        "cdpId": "4c0bf3c4-9931-5efe-8ec0-13ea39fcc8da",
+        "firstName": "Amanda",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "amanda.lima24@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511995217520",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.601.652-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2003-04-23",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "bc185a708698dd3e",
+        "cdpId": "7bd6deff-d03b-5c16-b193-fddfda3d5739",
+        "firstName": "Thiago",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "thiago.costa299@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511938304559",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.772.637-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1972-10-06",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a74d268b3e17e37d",
+        "cdpId": "b8c41921-f26a-5322-b29e-ca2911c7959b",
+        "firstName": "Diego",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "diego.costa153@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511932421740",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.608.912-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1986-01-06",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "20ce9aee15344dcb",
+        "cdpId": "fc657526-2058-5852-938f-afa756a94e73",
+        "firstName": "Beatriz",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "beatriz.almeida741@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511931287817",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.547.706-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2003-05-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "f804b95ca690bab5",
+        "cdpId": "9ff82163-4350-5889-bba8-c312f00b91ab",
+        "firstName": "Debora",
+        "lastName": "Cardoso",
+        "emails": [
+          {
+            "address": "debora.cardoso715@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511977374456",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.313.567-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1965-03-01",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "72dc6508c1e7aeaf",
+        "cdpId": "e7f85043-fe9b-5f75-b686-7271c6bc62f9",
+        "firstName": "Leonardo",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "leonardo.gomes269@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929642344",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.151.152-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1973-07-08",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4810c1329d8787dc",
+        "cdpId": "27951286-c14d-50a6-97c5-cf2bd025ba06",
+        "firstName": "Aline",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "aline.martins557@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511977591119",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.289.913-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1963-08-25",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "51b965dc83d358c4",
+        "cdpId": "fc6106a5-1367-519b-928d-ea70babd5e66",
+        "firstName": "Debora",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "debora.lima431@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511911365826",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.293.281-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2006-01-24",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0cc336b1c17eb224",
+        "cdpId": "a5709576-9dc4-5d79-87ca-b3ed0a66bbb9",
+        "firstName": "Rodrigo",
+        "lastName": "Santos",
+        "emails": [
+          {
+            "address": "rodrigo.santos909@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511969867222",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.977.991-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2000-10-18",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9c1c09594951d598",
+        "cdpId": "608c12d5-9134-531a-a62b-c98cb2e73cf8",
+        "firstName": "Maria",
+        "lastName": "Rodrigues",
+        "emails": [
+          {
+            "address": "maria.rodrigues743@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511963489541",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.958.662-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1979-05-15",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "898f4e8a00a9f3e6",
+        "cdpId": "144940a2-3cc8-5cbb-bdc2-ce8195181347",
+        "firstName": "Rafaela",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "rafaela.fernandes738@uol.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511966393150",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.799.109-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2004-06-09",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e4f97f3f9f6b7638",
+        "cdpId": "e71fdb81-5509-5b03-82e4-bd7c8383cbc6",
+        "firstName": "Rodrigo",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "rodrigo.lima177@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511916153720",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.890.642-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1966-02-06",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "7c8493f2f0cce402",
+        "cdpId": "7bf8a1cc-eb22-5eec-a4ed-adba4274a407",
+        "firstName": "Eduardo",
+        "lastName": "Moreira",
+        "emails": [
+          {
+            "address": "eduardo.moreira876@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511930995663",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.218.600-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-09-11",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e32633ecb205acbc",
+        "cdpId": "1fa03e14-33a0-515c-aa70-a4699023c6e9",
+        "firstName": "Carla",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "carla.nascimento328@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511987939420",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.773.734-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1999-02-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "91166d16a4fdec12",
+        "cdpId": "e7a12456-a551-5d5e-abb7-43220106b376",
+        "firstName": "Eduardo",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "eduardo.carvalho648@gmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511924275330",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.208.646-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2006-12-03",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "8f7327f0733fa141",
+        "cdpId": "5aa133cf-cc6e-5d3b-88ce-555c80dbf907",
+        "firstName": "Thiago",
+        "lastName": "Rodrigues",
+        "emails": [
+          {
+            "address": "thiago.rodrigues360@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511942859306",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.209.125-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1971-11-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "245bc2c033961703",
+        "cdpId": "73c0295c-f8a0-5766-a3f5-da21c0daf7a1",
+        "firstName": "Beatriz",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "beatriz.teixeira578@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511916127542",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.550.905-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1963-02-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "bbe226d963bca086",
+        "cdpId": "0ddd7b83-ca87-5009-9621-82a231dc8a2f",
+        "firstName": "Diego",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "diego.rocha952@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511988441309",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.523.817-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1984-07-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "df2b8140e6cbdc33",
+        "cdpId": "c3b25e88-dba9-54cf-b436-5c9cac400966",
+        "firstName": "Patricia",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "patricia.nascimento290@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511910425953",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.983.563-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1975-07-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "58bc6de150b304ec",
+        "cdpId": "39058af7-14af-5025-9f1a-169dffe5f4f5",
+        "firstName": "Rodrigo",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "rodrigo.ferreira690@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511976255029",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.324.167-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2003-08-18",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "faa49fb99294a7db",
+        "cdpId": "364bb2e9-e7da-5024-9628-a8e3928673e4",
+        "firstName": "Gabriel",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "gabriel.barbosa790@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511993538025",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.266.226-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2002-11-19",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "06966a158a822fc5",
+        "cdpId": "3240087c-1704-544a-b31d-6ab30b2a3536",
+        "firstName": "Priscila",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "priscila.costa711@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511940889595",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.322.883-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1964-04-03",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "bc5423ac2d5702b6",
+        "cdpId": "3df7bf13-9978-5cff-be83-8bfbc7350e7a",
+        "firstName": "Leonardo",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "leonardo.ferreira562@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511996384494",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.869.162-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1967-11-05",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a16d2fdbccad2fa4",
+        "cdpId": "9eaf0a72-4f50-5423-be10-b273e2059a35",
+        "firstName": "Fabio",
+        "lastName": "Santos",
+        "emails": [
+          {
+            "address": "fabio.santos691@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511948954675",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.314.206-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1962-01-18",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "267bab068372f2ba",
+        "cdpId": "d2ad0444-a10f-525b-8fe4-214780ccda62",
+        "firstName": "Vinicius",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "vinicius.fernandes638@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511993053708",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.970.356-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1974-05-19",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "da58362c6be451e1",
+        "cdpId": "df5a8d10-30f4-5069-a2be-8feb14f35bdc",
+        "firstName": "Mariana",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "mariana.gomes526@uol.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511916176574",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.934.214-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1981-09-17",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "2168189aea88127a",
+        "cdpId": "627b42b8-eab9-5d4b-985d-89ca400d490a",
+        "firstName": "Alexandre",
+        "lastName": "Alves",
+        "emails": [
+          {
+            "address": "alexandre.alves232@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511930757592",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.227.765-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2003-08-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "87e2fe3c41a561ba",
+        "cdpId": "451f8a78-8073-56a7-836a-6bb603100f35",
+        "firstName": "Carla",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "carla.ribeiro214@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511920073732",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.350.335-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2001-04-12",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "70d97d154758f40c",
+        "cdpId": "85eaa0c7-ccff-5fae-9fe7-10b2aca1ef47",
+        "firstName": "Fernanda",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "fernanda.ferreira92@hotmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511959144425",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.653.479-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1978-10-14",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "05999296a27090ad",
+        "cdpId": "274f3926-1abe-5841-9739-52f0b4071dd3",
+        "firstName": "Fabio",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "fabio.carvalho826@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511956922578",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.617.164-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1969-07-22",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "add52f892fa3ed32",
+        "cdpId": "f1852c91-161b-50a6-a047-6bf95881ea78",
+        "firstName": "Marcelo",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "marcelo.ferreira829@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511975294972",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.425.297-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1964-01-10",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "89987a82c3a3bc38",
+        "cdpId": "cdcad25a-71ea-539f-b0b9-177f3258a14f",
+        "firstName": "Eduardo",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "eduardo.almeida299@hotmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511910747281",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.297.637-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1961-01-09",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e5601030876907a4",
+        "cdpId": "91d52baa-9937-579e-bb58-30106f1ad69d",
+        "firstName": "Aline",
+        "lastName": "Rodrigues",
+        "emails": [
+          {
+            "address": "aline.rodrigues302@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511930486644",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.458.869-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1977-09-28",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "3b653919859f37f3",
+        "cdpId": "35f60084-aeb2-5c71-b6b8-83fa29544eba",
+        "firstName": "Rafaela",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "rafaela.dias2@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511953346336",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.914.113-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1984-08-04",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "fd12a85794bf8e44",
+        "cdpId": "ed1350c8-a576-5cf9-a961-5fa41c4a8285",
+        "firstName": "Rodrigo",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "rodrigo.costa655@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511987219826",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.367.317-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-03-26",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "bbb0a1d3d34f7f27",
+        "cdpId": "46a8e794-4915-5aaf-804f-1157794b77ed",
+        "firstName": "Gabriel",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "gabriel.teixeira656@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511937776765",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.135.584-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1991-04-19",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "8c8de7ed811a3481",
+        "cdpId": "532e64be-f22c-581a-8856-27ffc0084a32",
+        "firstName": "Patricia",
+        "lastName": "Oliveira",
+        "emails": [
+          {
+            "address": "patricia.oliveira932@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511974368217",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.130.740-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1968-08-16",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "51fe544aeafed58e",
+        "cdpId": "1d6e0542-6820-574e-993f-596feb33e6e1",
+        "firstName": "Matheus",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "matheus.araujo153@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511928022258",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.559.909-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1986-02-04",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "76119980b92371b7",
+        "cdpId": "1303307a-c43d-5bd6-ac9b-d937210cd79f",
+        "firstName": "Rodrigo",
+        "lastName": "Alves",
+        "emails": [
+          {
+            "address": "rodrigo.alves448@outlook.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511978719072",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.606.453-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-10-08",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "22ff9b0f8b0dfdf3",
+        "cdpId": "7400a56a-c303-520a-aad5-b96abdd54544",
+        "firstName": "Fabio",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "fabio.martins486@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511956026051",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.273.207-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1985-08-20",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "80ce603ba5ae5491",
+        "cdpId": "68a80e16-5cc5-597a-8d3e-c990e09f7d2e",
+        "firstName": "Fabio",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "fabio.fernandes615@gmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511963659186",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.124.456-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1962-07-02",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6442d101c96349db",
+        "cdpId": "ff99b14f-eb0b-5184-9d65-9c323d6c2668",
+        "firstName": "Ricardo",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "ricardo.dias308@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511951319337",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.318.261-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Nao informado",
+        "birthDate": "1966-05-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "5a9e237412122e32",
+        "cdpId": "d18a2b07-7d6e-5ae9-893f-bed15f21ee9d",
+        "firstName": "Ricardo",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "ricardo.fernandes550@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511955198820",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.124.825-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1987-05-23",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4178910f885e7db3",
+        "cdpId": "dfd2b752-23e4-53c9-816f-5cc42c80b5f2",
+        "firstName": "Bruno",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "bruno.teixeira274@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511996845142",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.430.937-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1993-12-19",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a680efd25841c648",
+        "cdpId": "be1d5aa6-ce52-585a-9648-4b0a840aee65",
+        "firstName": "Felipe",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "felipe.araujo780@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511973497720",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.910.473-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2002-11-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "87c8a122c44b554e",
+        "cdpId": "cb61871a-36da-536b-abd6-810b414b67c2",
+        "firstName": "Ana",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "ana.araujo461@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511955773237",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.545.545-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1992-02-15",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "c6c31b0ae24b8039",
+        "cdpId": "168fcad8-05a2-55ec-9f1f-91e6535cec68",
+        "firstName": "Fernanda",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "fernanda.rocha892@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511936306603",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.567.412-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1977-07-20",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "7c3275badabd8ffb",
+        "cdpId": "b04fbd4e-8011-5ff1-baed-f9b9ac36b546",
+        "firstName": "Larissa",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "larissa.costa678@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511951231432",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.419.380-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1973-08-23",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "885c0fa5c84e58ce",
+        "cdpId": "bcbe661c-6930-57ea-802b-5fe19b5c4dbb",
+        "firstName": "Carla",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "carla.almeida493@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511944333286",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.814.899-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1982-03-05",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "caa076c942bcafb4",
+        "cdpId": "651da908-a3ee-5a40-a777-0aaa65218055",
+        "firstName": "Debora",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "debora.fernandes686@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511998076517",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.653.565-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1975-06-28",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "17024c0fd4bfa24b",
+        "cdpId": "19cfa0b1-af80-51aa-8676-3564003e47c7",
+        "firstName": "Beatriz",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "beatriz.carvalho867@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511956241556",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.615.138-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1974-04-28",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "7ec43e6f1ec94820",
+        "cdpId": "de9776b6-3687-5275-ac91-2c75df1d209a",
+        "firstName": "Carla",
+        "lastName": "Rodrigues",
+        "emails": [
+          {
+            "address": "carla.rodrigues498@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511918597482",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.925.703-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1999-04-12",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d09e7e8f26b7d8c1",
+        "cdpId": "6bd50ff8-8f7a-57ed-acce-99473338bf18",
+        "firstName": "Bruno",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "bruno.fernandes782@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511924186968",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.778.941-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1982-02-10",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "319632ae5acb01fb",
+        "cdpId": "c1ddd10c-e61c-52b8-ae67-2fe378bcd6db",
+        "firstName": "Ricardo",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "ricardo.martins576@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511953565080",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.850.393-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2004-01-05",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "984dd9985755a1ad",
+        "cdpId": "12f86615-eb40-5533-b933-b65be724b03f",
+        "firstName": "Leonardo",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "leonardo.gomes314@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511994507046",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.674.346-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1981-01-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "51239707bb57f317",
+        "cdpId": "2852b075-0579-5d1a-bbc9-f2d9fc909813",
+        "firstName": "Leticia",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "leticia.martins99@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929046220",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.399.289-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1981-09-05",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "3c1282e98b42ae01",
+        "cdpId": "fbe8c9db-ad64-515d-b112-7c000f2c8058",
+        "firstName": "Thiago",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "thiago.ribeiro85@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511951093100",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.992.577-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1978-11-16",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "fcc7519242374a62",
+        "cdpId": "7c9b4047-cff4-5e4f-a7bc-3f599c1887ef",
+        "firstName": "Debora",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "debora.ribeiro808@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511986271683",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.735.653-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1981-10-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "835a9471c28592aa",
+        "cdpId": "ad5c2ffd-eac3-5a0c-bbd7-afc638f60141",
+        "firstName": "Rafael",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "rafael.martins992@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511989019554",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.246.304-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1964-04-17",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "91cb3a5d7122ce24",
+        "cdpId": "89161a45-c3a3-5efd-81f0-e095ba082caf",
+        "firstName": "Maria",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "maria.gomes157@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511984726356",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.561.336-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1964-11-15",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "5428659f4242878e",
+        "cdpId": "4ad50b54-bd13-553e-b404-9a335ed647ca",
+        "firstName": "Diego",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "diego.dias64@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511923153897",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.986.883-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1989-04-15",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d2ca0a823aee745c",
+        "cdpId": "f3e36b96-9f09-5429-b897-3918d3ec0f16",
+        "firstName": "Vinicius",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "vinicius.gomes500@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511969186714",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.168.136-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1978-09-16",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "890639385cadfe28",
+        "cdpId": "a4f1caaa-6bc2-5de9-95e8-36bbf1363f8e",
+        "firstName": "Joao",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "joao.gomes462@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511992258247",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.677.335-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1986-11-12",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e7fe99adb71d982e",
+        "cdpId": "058e5a0b-8e99-5af4-9218-2c57a4725adc",
+        "firstName": "Patricia",
+        "lastName": "Souza",
+        "emails": [
+          {
+            "address": "patricia.souza708@outlook.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511910251322",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.993.307-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1976-03-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9f2d4b19cc58f189",
+        "cdpId": "63687b42-605a-5ead-9a7e-c5c0636acee0",
+        "firstName": "Priscila",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "priscila.ferreira855@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511991486620",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.668.317-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1978-02-10",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "70d5650aaaf42bde",
+        "cdpId": "e126c8e0-cd53-5611-abe1-69e2903d787d",
+        "firstName": "Beatriz",
+        "lastName": "Oliveira",
+        "emails": [
+          {
+            "address": "beatriz.oliveira433@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929255580",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.535.349-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1966-07-01",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "27a0d43d4553a750",
+        "cdpId": "b77c73eb-dac4-5367-a070-f52fcdf76409",
+        "firstName": "Larissa",
+        "lastName": "Santos",
+        "emails": [
+          {
+            "address": "larissa.santos179@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511922952269",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.566.984-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1969-03-18",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ba3121620cb7bbf3",
+        "cdpId": "995b1b3f-1b44-526e-a81c-59b107b390a1",
+        "firstName": "Felipe",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "felipe.silva632@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511986172262",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.589.256-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1993-01-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a6b6febd0ff81980",
+        "cdpId": "0153adca-7225-54dd-a237-900fc08d1396",
+        "firstName": "Bruno",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "bruno.dias834@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511939945421",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.334.503-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1977-09-21",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "bafca3f429d973b5",
+        "cdpId": "e0865288-7a20-52be-8b7b-d2f84607c084",
+        "firstName": "Eduardo",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "eduardo.araujo558@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511998799808",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.176.413-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2008-02-21",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e48dd5d96b91b13b",
+        "cdpId": "2c5d3dd3-229a-52c0-bbb3-fb976d4ce874",
+        "firstName": "Aline",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "aline.pereira418@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511969924706",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.866.321-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1998-04-06",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "32591ac10f7b0f76",
+        "cdpId": "e2b25ff5-26b2-5e46-90ae-3c48402625be",
+        "firstName": "Patricia",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "patricia.rocha639@outlook.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511939174277",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.551.897-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2000-06-04",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6058b5fb4c836c0d",
+        "cdpId": "79dcab62-ba12-59d0-b963-25a404c50767",
+        "firstName": "Felipe",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "felipe.silva365@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511974124579",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.809.659-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1987-05-16",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "7f689c2b42c9e025",
+        "cdpId": "1d71a860-5564-5195-8983-c4d70485e55e",
+        "firstName": "Priscila",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "priscila.martins106@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511950919363",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.521.526-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2002-02-27",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9166c7f4840360a9",
+        "cdpId": "22034c52-44a2-51ff-98fa-ff46bcafcaac",
+        "firstName": "Amanda",
+        "lastName": "Oliveira",
+        "emails": [
+          {
+            "address": "amanda.oliveira957@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511916489164",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.131.991-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1995-04-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "7f0a82493c7699f3",
+        "cdpId": "cec13643-8401-5dab-a9c4-f1f31f341569",
+        "firstName": "Vitoria",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "vitoria.lima321@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511946993972",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.661.803-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2007-05-12",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6ced831e8876f55a",
+        "cdpId": "71a62841-cb1f-5bce-9cc7-4720063c270b",
+        "firstName": "Joao",
+        "lastName": "Cardoso",
+        "emails": [
+          {
+            "address": "joao.cardoso254@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511980998702",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.166.813-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1994-08-01",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e1654a8bf4afc938",
+        "cdpId": "7594ce58-2895-5690-8150-b4dcb8f825ac",
+        "firstName": "Pedro",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "pedro.martins321@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511912938211",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.109.726-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-12-11",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "72185c293a104a28",
+        "cdpId": "0e79c154-8545-53b5-a504-b94afcdd7c42",
+        "firstName": "Joao",
+        "lastName": "Santos",
+        "emails": [
+          {
+            "address": "joao.santos79@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511923743163",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.462.163-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1989-01-23",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "85da3815edd507f1",
+        "cdpId": "307c4d40-6815-5629-8973-4ad8968cf1e2",
+        "firstName": "Gabriela",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "gabriela.lima299@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929816456",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.472.889-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1993-11-08",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a5db2adcdc0f91b9",
+        "cdpId": "659f641b-5a17-55ee-8a65-05e502b2960b",
+        "firstName": "Carla",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "carla.carvalho707@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5521945779908",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.104.660-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1969-08-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "13206f12a07c4d5a",
+        "cdpId": "f7676acd-a2c0-5c02-a40f-2472ad23f2df",
+        "firstName": "Fabio",
+        "lastName": "Cardoso",
+        "emails": [
+          {
+            "address": "fabio.cardoso70@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511960445733",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.177.506-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1988-12-06",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "857eeb86c6487e8d",
+        "cdpId": "30637c21-ff7f-5023-802b-38fb47c7b9ca",
+        "firstName": "Gustavo",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "gustavo.dias937@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511964548602",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.569.545-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1975-01-05",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "30f5f609cd62aacd",
+        "cdpId": "3c668688-4e00-50a3-97a7-46c77ac94fe4",
+        "firstName": "Thiago",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "thiago.araujo570@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926496402",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.239.854-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Nao informado",
+        "birthDate": "1982-09-10",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4a16862de2039316",
+        "cdpId": "43956d40-4004-55b3-a37f-3ef6bfa2a9d8",
+        "firstName": "Eduardo",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "eduardo.lima255@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511975828467",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.863.606-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1976-01-26",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "052a38271309d6d9",
+        "cdpId": "a57b6f75-dc08-5287-983d-353574426298",
+        "firstName": "Leonardo",
+        "lastName": "Cardoso",
+        "emails": [
+          {
+            "address": "leonardo.cardoso976@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511962686997",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.277.959-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2008-05-01",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "072ae268c7022d01",
+        "cdpId": "2483ca2b-2eaf-5eab-aaec-9f0a4a67ebcf",
+        "firstName": "Ricardo",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "ricardo.dias150@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511989991529",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.268.410-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2004-01-25",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a5cba00d25929a21",
+        "cdpId": "46c617e1-b332-5789-b35e-d7f7b6a149c5",
+        "firstName": "Carla",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "carla.barbosa181@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511987098574",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.302.817-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2001-11-10",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "504863caa16b7b3e",
+        "cdpId": "defc0102-5b72-5163-83c2-ffdc7e8ff95f",
+        "firstName": "Pedro",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "pedro.teixeira3@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511930466841",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.981.518-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1985-11-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "65578ba43629c461",
+        "cdpId": "f5b32e0f-24b7-5940-b4b0-e74940e447f4",
+        "firstName": "Alexandre",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "alexandre.ferreira398@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926044598",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.176.565-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1985-07-09",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ec279e96d7f92ef9",
+        "cdpId": "aa751ea9-d3d0-5d52-a13b-16a852ad6848",
+        "firstName": "Eduardo",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "eduardo.gomes686@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511951948401",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.835.309-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1962-11-24",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b2d3e89a661e669e",
+        "cdpId": "2c212a1f-c766-5989-8e7e-be9a21b4c489",
+        "firstName": "Bruna",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "bruna.lima969@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511963473528",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.791.202-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1983-08-08",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0c49eb6b919566b4",
+        "cdpId": "bceccd63-c54d-5004-a586-c7a27ab7202c",
+        "firstName": "Rafaela",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "rafaela.ribeiro240@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511995576134",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.292.564-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1967-11-10",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0f7fc5712d48bc11",
+        "cdpId": "88a0c5c8-7349-5a23-a3d6-1aa311e5c8ce",
+        "firstName": "Fabio",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "fabio.teixeira669@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511972372342",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.889.167-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Nao informado",
+        "birthDate": "1978-09-20",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "11bdcb3ce18906ed",
+        "cdpId": "0a7f4be7-4c0c-54a8-a4dd-168d15d350b1",
+        "firstName": "Debora",
+        "lastName": "Cardoso",
+        "emails": [
+          {
+            "address": "debora.cardoso388@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511963245800",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.603.151-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1983-04-15",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "83a9d6e6877d89b8",
+        "cdpId": "db776560-345d-5a45-a713-4d9a9cbefa65",
+        "firstName": "Ana",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "ana.dias92@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926335675",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.136.649-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1988-06-06",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "3e3242dab3d14a29",
+        "cdpId": "9038e95b-ba32-5bd5-9d97-740901fbd2e5",
+        "firstName": "Fabio",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "fabio.nascimento231@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926595513",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.280.449-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1967-09-23",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b25024c427602b55",
+        "cdpId": "578352cf-2e59-5ada-8e32-efa5ec081c6f",
+        "firstName": "Lucas",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "lucas.barbosa876@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511987163138",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.148.633-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1966-01-15",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "980459a572d6e449",
+        "cdpId": "c86c55ab-a31d-586e-ab6b-66afb02e3544",
+        "firstName": "Gustavo",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "gustavo.carvalho144@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511956166321",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.199.223-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1985-09-11",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d24ec3decbbde8b2",
+        "cdpId": "ce443e23-1479-5f60-a56c-effb0263fca0",
+        "firstName": "Joao",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "joao.ferreira173@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511938421392",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.270.716-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1972-04-16",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "28b8b2c3afe19170",
+        "cdpId": "d85e5d78-55b0-5240-a6df-8fbd0a10ab5a",
+        "firstName": "Bruna",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "bruna.araujo593@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511960713865",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.307.522-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1968-01-03",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "caf8bea9603ff536",
+        "cdpId": "9b3de7e0-da54-583c-8951-ba68cc41bd73",
+        "firstName": "Eduardo",
+        "lastName": "Nascimento",
+        "emails": [
+          {
+            "address": "eduardo.nascimento656@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926868025",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.703.765-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-10-05",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9548a5f7caa028c5",
+        "cdpId": "993a2d9e-bc33-596c-9c99-23976d02caca",
+        "firstName": "Alexandre",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "alexandre.rocha984@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511983605238",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.201.269-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-10-08",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "79d3228e9b27d46e",
+        "cdpId": "123ccf35-b9dd-5b05-b892-1f525550eea5",
+        "firstName": "Rafaela",
+        "lastName": "Moreira",
+        "emails": [
+          {
+            "address": "rafaela.moreira887@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511933461150",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.902.586-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1972-03-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "2980e7ff1c20c1f4",
+        "cdpId": "40361a1f-fcb4-5aaa-9b7a-483995279820",
+        "firstName": "Amanda",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "amanda.martins433@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511930718892",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.967.123-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1992-11-10",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ece6436749142fa8",
+        "cdpId": "1da0002f-9163-59d3-86bb-5f7e2daf9df3",
+        "firstName": "Ana",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "ana.almeida892@gmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511992194535",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.603.961-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2003-04-06",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "5c2b7d61725ca44a",
+        "cdpId": "b141b947-e981-520a-9df9-ee0ebca88314",
+        "firstName": "Rodrigo",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "rodrigo.barbosa382@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511947826848",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.570.100-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2007-01-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4d70a18c6d5d3b55",
+        "cdpId": "68ef298c-281e-5736-ab8f-31d74a6b0b77",
+        "firstName": "Ricardo",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "ricardo.teixeira574@uol.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511924758909",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.152.826-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1991-01-14",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d718d22beff7ed68",
+        "cdpId": "35e35f7c-0cf4-540b-804d-b5f41bb5681a",
+        "firstName": "Leticia",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "leticia.barbosa489@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511995875659",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.531.874-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2001-10-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "fc36d2b7aa32c96c",
+        "cdpId": "2dd4816c-4c82-54ae-b1e1-9ce92740af70",
+        "firstName": "Lucas",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "lucas.araujo472@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511934145204",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.575.784-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1998-10-21",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "7a73c567d8b7ec3f",
+        "cdpId": "b1eef671-2f69-5a97-9c77-ac6312168af8",
+        "firstName": "Fernanda",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "fernanda.ferreira653@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511943385503",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.992.654-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1994-12-18",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "829a8b91140b5f2b",
+        "cdpId": "dd74c685-5ae9-5249-bd3c-a67de8441bc1",
+        "firstName": "Alexandre",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "alexandre.barbosa469@hotmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929141974",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.295.642-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1992-09-01",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "89d6fd55bab466ad",
+        "cdpId": "57187e86-c419-5b26-ad72-e52bff633abd",
+        "firstName": "Rodrigo",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "rodrigo.ferreira726@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926093867",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.287.397-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1996-08-18",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6a15460ba4fd8304",
+        "cdpId": "56649dc0-9c05-56af-8e4a-7d0497090feb",
+        "firstName": "Ana",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "ana.pereira55@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511988675408",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.628.400-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1972-11-07",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "c7fb843bbbf1b0a0",
+        "cdpId": "792d54fd-d190-5093-934a-ede988415795",
+        "firstName": "Eduardo",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "eduardo.barbosa764@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511957818935",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.398.210-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1985-01-12",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0b194ed38255eb28",
+        "cdpId": "53f2f7be-2fc0-5eb7-90e7-8a6f981f3d57",
+        "firstName": "Vitoria",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "vitoria.fernandes169@yahoo.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511958434817",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.624.326-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1968-05-08",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b422791a8fe5984e",
+        "cdpId": "eeabfeb8-0c28-57ac-8eeb-feb98754760c",
+        "firstName": "Larissa",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "larissa.costa500@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511976664381",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.551.547-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Nao informado",
+        "birthDate": "1961-01-12",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b4d6b663de912c5c",
+        "cdpId": "c9280d42-73e0-593f-a297-a17af8edad44",
+        "firstName": "Beatriz",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "beatriz.pereira875@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511925023490",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.799.300-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1987-07-28",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "f50039f5fe6315ff",
+        "cdpId": "69efb7c8-73ac-594e-a054-3f5477f94521",
+        "firstName": "Beatriz",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "beatriz.barbosa965@uol.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511968434408",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.396.794-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1992-11-19",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "057be7cab22972ca",
+        "cdpId": "e569d13a-7dfb-570f-bc3f-5aed7ba0e65d",
+        "firstName": "Pedro",
+        "lastName": "Souza",
+        "emails": [
+          {
+            "address": "pedro.souza863@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511974964563",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.514.179-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2007-04-05",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "388505c67f43ceef",
+        "cdpId": "62efbca5-d525-58ce-8aa5-7e8c52ef9d7b",
+        "firstName": "Priscila",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "priscila.rocha4@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511984024642",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.901.641-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2000-06-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "25796eba09a3ddc4",
+        "cdpId": "2bd9f164-87b1-5e4d-9d49-dd95141627fe",
+        "firstName": "Gustavo",
+        "lastName": "Fernandes",
+        "emails": [
+          {
+            "address": "gustavo.fernandes16@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511976272945",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.465.631-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1966-01-02",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ff9753b5b12d4ef1",
+        "cdpId": "c4d12e12-98a3-5ec2-a53a-ea612b519338",
+        "firstName": "Pedro",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "pedro.silva312@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511992827933",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.702.158-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1992-09-23",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4863256e7a8a7f9c",
+        "cdpId": "7550dc32-68ed-5d08-a27d-e869f562baea",
+        "firstName": "Larissa",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "larissa.carvalho604@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511998241275",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.773.931-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1980-05-15",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "85ea524195644d0f",
+        "cdpId": "66c2984e-0a03-591b-a13b-dc6715676280",
+        "firstName": "Sabrina",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "sabrina.almeida120@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511995808164",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.148.529-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1965-05-07",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "dda108501bdfa484",
+        "cdpId": "61079261-cd29-5bad-a304-3692c4f7022b",
+        "firstName": "Pedro",
+        "lastName": "Rocha",
+        "emails": [
+          {
+            "address": "pedro.rocha771@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511934649172",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.273.360-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1975-10-03",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "181cf17b8e34d777",
+        "cdpId": "281c053a-9676-5bea-a641-3a47ec87b9d4",
+        "firstName": "Larissa",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "larissa.teixeira588@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511978721355",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.491.562-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1972-12-15",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "fe4107b0f2f227b0",
+        "cdpId": "71b99d10-8dff-56ad-a240-39ee90e59627",
+        "firstName": "Fernanda",
+        "lastName": "Souza",
+        "emails": [
+          {
+            "address": "fernanda.souza231@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511996418653",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.735.115-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1994-08-15",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "eed935848f9ec95c",
+        "cdpId": "18d0ee53-3ee4-53c8-9ce6-75a868ed70c8",
+        "firstName": "Patricia",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "patricia.ribeiro974@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511929888175",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.201.919-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1978-11-12",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ef2b21d1a14d200a",
+        "cdpId": "a48766cd-9dca-5ecd-8bf3-fb9714a2a4c9",
+        "firstName": "Priscila",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "priscila.martins680@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511964949455",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.490.701-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1979-09-01",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ba30e0f79112a01a",
+        "cdpId": "48eb745b-f061-5811-b10f-c52952f24ee5",
+        "firstName": "Patricia",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "patricia.carvalho345@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511943093249",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.197.444-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1994-10-21",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "5511f9b08bf53634",
+        "cdpId": "7676ecb5-5261-5ab2-8dbe-4cc642fe6775",
+        "firstName": "Thiago",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "thiago.silva200@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511932549228",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.967.371-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1993-03-17",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4e5ef608e3d69f85",
+        "cdpId": "3b20d101-72dc-58d7-8ec4-87f100bb53b2",
+        "firstName": "Beatriz",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "beatriz.almeida159@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511992026712",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.170.240-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2008-10-02",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6f14fdd4f9019b24",
+        "cdpId": "2ed4213f-3f42-5b04-8c59-9de1f8db06f9",
+        "firstName": "Fabio",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "fabio.silva302@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5531983246021",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.303.176-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1974-03-24",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "4bc9f2e7b98b9a89",
+        "cdpId": "7411fe88-66ab-5a45-9f34-6a834a8d82c3",
+        "firstName": "Bruna",
+        "lastName": "Martins",
+        "emails": [
+          {
+            "address": "bruna.martins346@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511988307006",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.791.361-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1993-01-13",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "6f86e53941ec88e6",
+        "cdpId": "7f33e08e-9c6a-5d21-bc8e-759b68a5b6de",
+        "firstName": "Juliana",
+        "lastName": "Oliveira",
+        "emails": [
+          {
+            "address": "juliana.oliveira933@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511983283881",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.855.349-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1999-01-23",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "118e2b3c600c8748",
+        "cdpId": "d6320284-2f6f-538c-9933-c746c7e85674",
+        "firstName": "Larissa",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "larissa.lima888@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511916177155",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.358.707-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1977-02-15",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "27ac7bf01dbdaf89",
+        "cdpId": "5276b6e0-caed-5511-bd92-acc4a6b7a934",
+        "firstName": "Andre",
+        "lastName": "Rodrigues",
+        "emails": [
+          {
+            "address": "andre.rodrigues864@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511918316853",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.580.486-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1966-11-18",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "f75407baf4c67ed0",
+        "cdpId": "268cfe9d-70fe-5dcb-a8f2-387d8474a55a",
+        "firstName": "Mariana",
+        "lastName": "Rodrigues",
+        "emails": [
+          {
+            "address": "mariana.rodrigues702@hotmail.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511917929836",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.316.299-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1980-06-01",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ee818ede63a51e48",
+        "cdpId": "76c3c16c-0136-5d2f-81ca-3b4d7e1cef7b",
+        "firstName": "Larissa",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "larissa.ribeiro255@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511941745409",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.256.302-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1993-05-04",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a1655a9e2fa586f3",
+        "cdpId": "7624f2b7-1f7f-509d-8510-f1635c9340f7",
+        "firstName": "Pedro",
+        "lastName": "Moreira",
+        "emails": [
+          {
+            "address": "pedro.moreira948@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926973386",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.722.278-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2006-03-11",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "99312bdf560c0a2b",
+        "cdpId": "75c4c4fe-a4e4-54e4-ab99-4e6c97597207",
+        "firstName": "Priscila",
+        "lastName": "Moreira",
+        "emails": [
+          {
+            "address": "priscila.moreira370@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511960757942",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.298.297-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1988-06-08",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "822f72efc36f66bf",
+        "cdpId": "746ad41b-f2c8-512c-a4b2-a47155236a9c",
+        "firstName": "Juliana",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "juliana.silva631@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511967377551",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.314.194-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2005-01-08",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "176e002eae4eea98",
+        "cdpId": "ea46fae1-873f-5eff-b869-8b1746a40a39",
+        "firstName": "Marcelo",
+        "lastName": "Cardoso",
+        "emails": [
+          {
+            "address": "marcelo.cardoso86@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511982519702",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.151.809-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1974-12-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d620dd75f8fa135a",
+        "cdpId": "caff4284-41e5-5af5-a882-8e57f88e3928",
+        "firstName": "Felipe",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "felipe.ferreira647@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511942497017",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.613.127-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1993-02-09",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "9533491d50ce34bd",
+        "cdpId": "54b3fc20-a142-5840-aca6-659f5a11f75b",
+        "firstName": "Ana",
+        "lastName": "Lima",
+        "emails": [
+          {
+            "address": "ana.lima558@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511922202444",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.611.210-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1986-09-06",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "d11d6fe3afd4f9b3",
+        "cdpId": "a5e49c58-c7de-5e55-8ac5-21472900e049",
+        "firstName": "Camila",
+        "lastName": "Santos",
+        "emails": [
+          {
+            "address": "camila.santos668@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511971661329",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.405.115-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1991-07-07",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "950978d1372a69e1",
+        "cdpId": "b3c2e4a4-c769-59ec-afbc-3f520da2ef08",
+        "firstName": "Rodrigo",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "rodrigo.ribeiro745@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511923218816",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.909.167-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "2004-09-17",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a8f9524ad749492d",
+        "cdpId": "06d2537a-b0fc-588e-89b1-2cb27f50d539",
+        "firstName": "Aline",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "aline.ribeiro952@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511914851119",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.746.214-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1987-06-18",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "a8d00cff78d4345d",
+        "cdpId": "b195e540-5f5b-5647-89b5-c9d49473c6f2",
+        "firstName": "Thiago",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "thiago.almeida783@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511945318706",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.708.549-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1995-05-25",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "04772e070cab737a",
+        "cdpId": "8afa63ff-cfd3-5ebb-afcf-76f904e05d55",
+        "firstName": "Bruna",
+        "lastName": "Moreira",
+        "emails": [
+          {
+            "address": "bruna.moreira640@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511985896867",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.813.412-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1986-08-10",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "df6f6e754f327f43",
+        "cdpId": "f9d363a8-f73f-5f36-9c6d-3de9d8905b39",
+        "firstName": "Sabrina",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "sabrina.ferreira702@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511933288053",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.916.610-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2008-08-06",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "8108f6e3957c8c70",
+        "cdpId": "1a3fd7b0-06a0-57d9-be16-89e7a347a673",
+        "firstName": "Leticia",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "leticia.gomes411@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511933249094",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.268.972-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1992-10-16",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "8b731bcebe619550",
+        "cdpId": "a622f560-2300-5b6a-95c6-d7805ef032d9",
+        "firstName": "Marcelo",
+        "lastName": "Alves",
+        "emails": [
+          {
+            "address": "marcelo.alves240@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511959352488",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.923.711-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1991-06-14",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "008a6cfe4ce922df",
+        "cdpId": "f24a1827-d315-52ad-8dbb-4c0a0ab96e8a",
+        "firstName": "Rafael",
+        "lastName": "Almeida",
+        "emails": [
+          {
+            "address": "rafael.almeida691@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511943081717",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.377.443-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1973-02-17",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "742b1dc722ab6cf0",
+        "cdpId": "47b5e0c3-c254-5d65-ae7b-119e88f4a7d5",
+        "firstName": "Bruna",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "bruna.araujo17@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511931881596",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.808.155-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1965-08-09",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "667b4e25d26ec18f",
+        "cdpId": "544a05f2-ecc1-5e14-849e-d626ee6bd7c4",
+        "firstName": "Alexandre",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "alexandre.teixeira249@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511942486902",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.592.834-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1982-03-07",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b11fbcb9695f5443",
+        "cdpId": "863c1aa3-d92e-5272-89b9-f23c3594afcf",
+        "firstName": "Joao",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "joao.silva686@outlook.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511988934385",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.415.817-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1997-01-18",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "dc95c1e878e66aec",
+        "cdpId": "d4b5d57b-d9b1-5c8e-acd0-bf0152453626",
+        "firstName": "Debora",
+        "lastName": "Dias",
+        "emails": [
+          {
+            "address": "debora.dias511@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511913701894",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.716.818-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2007-10-01",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "c66c3a3b9aa3cc40",
+        "cdpId": "affd51ad-b119-5bf9-91f2-62306f140343",
+        "firstName": "Camila",
+        "lastName": "Souza",
+        "emails": [
+          {
+            "address": "camila.souza375@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511965474962",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.816.732-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1989-07-03",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0d8ec89ecaef514f",
+        "cdpId": "db1eade4-cab9-5b17-ac7e-f098831fba79",
+        "firstName": "Leticia",
+        "lastName": "Ribeiro",
+        "emails": [
+          {
+            "address": "leticia.ribeiro455@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511925381294",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.620.726-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2006-04-14",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "ee18f23f53e26426",
+        "cdpId": "50a576a6-8e29-5b6e-888e-b58d9c6d2baa",
+        "firstName": "Priscila",
+        "lastName": "Silva",
+        "emails": [
+          {
+            "address": "priscila.silva280@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511911597751",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.892.419-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1987-06-09",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "aa0eca6f2c512627",
+        "cdpId": "11c97bcc-9fce-5b01-8f52-431e650161e4",
+        "firstName": "Diego",
+        "lastName": "Gomes",
+        "emails": [
+          {
+            "address": "diego.gomes269@gmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511991371370",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.284.134-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1988-03-03",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "cdd6326162400615",
+        "cdpId": "2a790e79-6bab-5fa5-8dc8-422e32dfb1e7",
+        "firstName": "Joao",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "joao.pereira372@uol.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511960202634",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.115.875-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1976-04-01",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "c9c6947e85fccb36",
+        "cdpId": "003f22c3-081d-556b-be73-f3a094917a34",
+        "firstName": "Pedro",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "pedro.ferreira11@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511990334640",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.120.529-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1962-10-19",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "f164cf9d4a265832",
+        "cdpId": "50a27a5f-7a71-56cf-84b0-83e422ddd0a2",
+        "firstName": "Bruna",
+        "lastName": "Pereira",
+        "emails": [
+          {
+            "address": "bruna.pereira783@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511938772539",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.619.345-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2000-03-05",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "04ec88efa2294645",
+        "cdpId": "c68e5fed-10b2-54f2-81a0-f081e0fe34ca",
+        "firstName": "Felipe",
+        "lastName": "Teixeira",
+        "emails": [
+          {
+            "address": "felipe.teixeira616@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511945532601",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.448.831-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1977-11-26",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "881b22df4f614f4a",
+        "cdpId": "aa59ae53-e21c-58f0-a301-52466d118479",
+        "firstName": "Lucas",
+        "lastName": "Souza",
+        "emails": [
+          {
+            "address": "lucas.souza469@yahoo.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511988098325",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.755.280-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1993-12-26",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "1a9bde46ea7bfd1b",
+        "cdpId": "53e54d45-de5b-5159-a0fc-c4f469301d38",
+        "firstName": "Gabriela",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "gabriela.costa843@uol.com.br",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511941193713",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.211.280-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1968-11-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "3f1165ad0021b25f",
+        "cdpId": "7089d0d8-69dc-51ca-8fba-60a13ccdb59b",
+        "firstName": "Beatriz",
+        "lastName": "Ferreira",
+        "emails": [
+          {
+            "address": "beatriz.ferreira365@icloud.com",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511938049634",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.456.222-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1967-07-21",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "deee63992c8c243b",
+        "cdpId": "55846e22-76a7-59bc-a1c7-719a27d95950",
+        "firstName": "Pedro",
+        "lastName": "Alves",
+        "emails": [
+          {
+            "address": "pedro.alves164@outlook.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511966536267",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.135.267-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1981-09-10",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "791f25c06c05e03f",
+        "cdpId": "97d75939-3046-5bbd-81f4-6343e08488eb",
+        "firstName": "Amanda",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "amanda.costa708@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511975752822",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.508.850-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "2008-08-02",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e93b3b2ed0475ff7",
+        "cdpId": "c0dcc56e-5144-5073-bf3e-666b21d55640",
+        "firstName": "Joao",
+        "lastName": "Barbosa",
+        "emails": [
+          {
+            "address": "joao.barbosa255@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511987038612",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.837.936-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1998-03-23",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "61048a63d428dfdb",
+        "cdpId": "2e3d4fdd-d10e-5fd2-bbfc-100089349335",
+        "firstName": "Bruno",
+        "lastName": "Araujo",
+        "emails": [
+          {
+            "address": "bruno.araujo265@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511923729774",
+            "type": "mobile",
+            "verified": false
+          }
+        ],
+        "documentId": "***.397.524-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Nao informado",
+        "birthDate": "1988-01-07",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "0944d9981e8a3494",
+        "cdpId": "adc43dfa-219b-53eb-a7b6-2d225def1455",
+        "firstName": "Lucas",
+        "lastName": "Carvalho",
+        "emails": [
+          {
+            "address": "lucas.carvalho804@yahoo.com.br",
+            "isPrimary": true,
+            "verified": false
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511960362168",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.453.557-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1966-11-02",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": false,
+          "pushOptIn": true,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "8975dfa270a86c63",
+        "cdpId": "98f18709-130b-546e-ba06-ccd578871c29",
+        "firstName": "Rodrigo",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "rodrigo.costa368@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511955264583",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.104.730-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Masculino",
+        "birthDate": "1986-01-28",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": false,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "b4bf5bbd06ad4e94",
+        "cdpId": "e02341bf-133c-50eb-9b88-b53d5698c950",
+        "firstName": "Camila",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "camila.costa834@icloud.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511926097505",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.549.500-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1995-11-22",
+        "communicationPreferences": {
+          "emailOptIn": false,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": false
+        },
+        "languagePreference": "pt-BR"
+      }
+    },
+    {
+      "identity": {
+        "userPseudoId": "e730445dbaff611a",
+        "cdpId": "4a9b62ca-2b3e-592d-877b-85e4e286af11",
+        "firstName": "Maria",
+        "lastName": "Costa",
+        "emails": [
+          {
+            "address": "maria.costa161@hotmail.com",
+            "isPrimary": true,
+            "verified": true
+          }
+        ],
+        "phones": [
+          {
+            "number": "+5511946943109",
+            "type": "mobile",
+            "verified": true
+          }
+        ],
+        "documentId": "***.929.616-**",
+        "documentType": "CPF"
+      },
+      "descriptive": {
+        "gender": "Feminino",
+        "birthDate": "1972-12-03",
+        "communicationPreferences": {
+          "emailOptIn": true,
+          "smsOptIn": true,
+          "pushOptIn": false,
+          "whatsappOptIn": true
+        },
+        "languagePreference": "pt-BR"
+      }
+    }
+  ]
+}
