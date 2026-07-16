@@ -53,14 +53,29 @@ Recursos paginados seguem o mesmo envelope de resposta:
 - Todos os dados são sintéticos/fictícios, gerados para fins de teste — não
   representam pessoas, produtos ou transações reais.
 
-## Rodar local
+## Rodar local (standalone)
 
 ```bash
 npm install
 npm start        # http://localhost:3000
 ```
 
-## Rodar com Docker
+Ou via [`stack.sh`](stack.sh) (mesmo resultado, mas idempotente — não
+reinstala/reinicia se já estiver no ar, e sabe esperar o `/health` responder
+antes de devolver o controle; é o que o `agentic-cdp` usa por baixo dos
+panos):
+
+```bash
+./stack.sh up     # npm install + npm start em background
+./stack.sh down   # para o processo que está ouvindo em :3000 (ou $PORT)
+```
+
+Porta customizável via `PORT` (default `3000`), ex.: `PORT=4000 ./stack.sh up`.
+
+## Rodar com Docker (legado)
+
+O projeto não depende mais de Docker no dia a dia (ver seção acima), mas o
+`Dockerfile`/`docker-compose.yml` continuam funcionando se precisar:
 
 ```bash
 docker compose up --build -d

@@ -53,6 +53,9 @@ const server = http.createServer((req, res) => {
     case "/orders":
       void servePagedResource(res, "orders", "orders_page", page);
       return;
+    case "/health":
+      sendJson(res, 200, { status: "ok" });
+      return;
     default:
       sendJson(res, 404, { error: "not found" });
   }
