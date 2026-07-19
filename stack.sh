@@ -25,7 +25,7 @@ wait_for() {
 
 cmd_up() {
   if curl -sf -m 2 "http://localhost:$PORT/health" >/dev/null 2>&1; then
-    log "já rodando em :$PORT"
+    log " rodando em :$PORT"
     return
   fi
   log "instalando deps e iniciando..."
