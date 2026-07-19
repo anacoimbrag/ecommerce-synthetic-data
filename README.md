@@ -1,4 +1,4 @@
-# ecomm-data
+# ecommerce-synthetic-data 
 
 Servidor mínimo (Node + TypeScript, sem framework) que expõe dados sintéticos
 de e-commerce (`./datasources`) como uma API REST simples, pensada para servir
@@ -62,7 +62,7 @@ npm start        # http://localhost:3000
 
 Ou via [`stack.sh`](stack.sh) (mesmo resultado, mas idempotente — não
 reinstala/reinicia se já estiver no ar, e sabe esperar o `/health` responder
-antes de devolver o controle; é o que o `agentic-cdp` usa por baixo dos
+antes de devolver o controle; é o que o `ecommerce-data-pipeline` usa por baixo dos
 panos):
 
 ```bash

@@ -62,5 +62,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`ecomm-data listening on :${PORT} (DATA_DIR=${DATA_DIR})`);
+  console.log(`ecommerce-synthetic-data listening on :${PORT} (DATA_DIR=${DATA_DIR})`);
 });

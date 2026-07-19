@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Sobe/derruba o ecomm-data nativo (sem Docker).
+# Sobe/derruba o ecommerce-synthetic-data  nativo (sem Docker).
 #
 # Uso:
 #   ./stack.sh up    # npm install + npm start em background
@@ -9,9 +9,9 @@ cd "$(dirname "$0")"
 ROOT="$(pwd)"
 
 PORT="${PORT:-3000}"
-LOG_FILE="$ROOT/.stack-ecomm-data.log"
+LOG_FILE="$ROOT/.stack-ecommerce-synthetic-data .log"
 
-log() { echo "[ecomm-data] $*"; }
+log() { echo "[ecommerce-synthetic-data] $*"; }
 
 wait_for() {
   local tries=30
