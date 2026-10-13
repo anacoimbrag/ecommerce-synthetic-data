@@ -23,6 +23,11 @@ e prototipagem.
   venda, frete, cupom, reembolso quando aplicável). Paginado (páginas 1–47,
   200 pedidos cada).
 
+- `GET /docs` — Swagger UI com todas as rotas, parâmetros e schemas de
+  resposta documentados (spec OpenAPI 3.0 em `GET /openapi.json`, definida em
+  [`src/openapi.ts`](src/openapi.ts) — atualize-a junto com as rotas de
+  `src/server.ts`). O Swagger UI é carregado via CDN (unpkg).
+
 Recursos paginados seguem o mesmo envelope de resposta:
 
 ```json

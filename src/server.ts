@@ -1,6 +1,7 @@
 import http from "node:http";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
+import { openApiSpec } from "./openapi";
 
 const PORT = Number(process.env.PORT ?? 3000);
 const DATA_DIR = process.env.DATA_DIR ?? path.join(__dirname, "..", "datasources");
@@ -30,6 +31,26 @@ async function servePagedResource(
   }
 }
 
+const SWAGGER_UI_VERSION = "5.17.14";
+
+const SWAGGER_UI_HTML = `<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ecommerce-synthetic-data · API docs</title>
+  <link rel="stylesheet" href="https://unpkg.com/swagger-ui-dist@${SWAGGER_UI_VERSION}/swagger-ui.css" />
+  <style>body { margin: 0; background: #fff; }</style>
+</head>
+<body>
+  <div id="swagger-ui"></div>
+  <script src="https://unpkg.com/swagger-ui-dist@${SWAGGER_UI_VERSION}/swagger-ui-bundle.js"></script>
+  <script>
+    window.ui = SwaggerUIBundle({ url: "/openapi.json", dom_id: "#swagger-ui", deepLinking: true });
+  </script>
+</body>
+</html>`;
+
 const server = http.createServer((req, res) => {
   const url = new URL(req.url ?? "/", `http://${req.headers.host}`);
   const page = Number(url.searchParams.get("page") ?? "1") || 1;
@@ -52,6 +73,13 @@ const server = http.createServer((req, res) => {
       return;
     case "/orders":
       void servePagedResource(res, "orders", "orders_page", page);
+      return;
+    case "/openapi.json":
+      sendJson(res, 200, openApiSpec);
+      return;
+    case "/docs":
+      res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
+      res.end(SWAGGER_UI_HTML);
       return;
     case "/health":
       sendJson(res, 200, { status: "ok" });
